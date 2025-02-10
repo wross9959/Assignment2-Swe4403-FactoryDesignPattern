@@ -1,0 +1,5 @@
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Release/net9.0/publish/src
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Release/net9.0/publish/src.dll
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Release/net9.0/publish/src.deps.json
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Release/net9.0/publish/src.runtimeconfig.json
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Release/net9.0/publish/src.pdb

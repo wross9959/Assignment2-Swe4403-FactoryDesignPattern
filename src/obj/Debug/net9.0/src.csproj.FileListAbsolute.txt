@@ -1,0 +1,14 @@
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Debug/net9.0/src
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Debug/net9.0/src.deps.json
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Debug/net9.0/src.runtimeconfig.json
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Debug/net9.0/src.dll
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/bin/Debug/net9.0/src.pdb
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.AssemblyInfoInputs.cache
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.AssemblyInfo.cs
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.csproj.CoreCompileInputs.cache
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.dll
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/refint/src.dll
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.pdb
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/src.genruntimeconfig.cache
+/Users/willross/School/W2025/Swe4403_W2025/Assignments/As2/src/src/obj/Debug/net9.0/ref/src.dll
